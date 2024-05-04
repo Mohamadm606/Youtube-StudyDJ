@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube DJ",
+    "description": "Auto-plays Youtube videos based on your taste",
+    "version": "1.0",
+    "action": {
+      "default_popup": "default.html",
+      "default_icon": "hello_extensions.png"
+    }
+  }
